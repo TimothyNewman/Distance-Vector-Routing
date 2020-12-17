@@ -1,0 +1,1 @@
+Please note that this project uses Distance Vector Routing. This project was completed at UCB by me through an extensive skeleton base. My work can be found in simulator/dv_router.py where the majority of the code there is my own.
